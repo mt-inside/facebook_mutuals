@@ -1,2 +1,2 @@
-== TODO ==
-# Need to work out how to get a token to allow this script to act as me and thus get all my friends. I only seem to be able to generate "user tokens" "under" an app. I.e. an app like the Graph Explorer will allow you to log into it, grant it permissions, and then get an token for those actions. However, even when I grant Graph Explorer friends permissions, I see only a small subset of my friends, plausibly only those who've used that app.
+# TODO
+1. Need to work out how to get a token to allow this script to act as me and thus get all my friends. I only seem to be able to generate "user tokens" "under" an app. I.e. an app like the Graph Explorer will allow you to log into it, grant it permissions, and then get an token for those actions. However, even when I grant Graph Explorer friends permissions, I see only a small subset of my friends, plausibly only those who've used that app.
